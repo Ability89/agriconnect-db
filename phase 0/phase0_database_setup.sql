@@ -1,0 +1,3 @@
+CREATE DATABASE agriconnect CHARACTER SET utf8mb4;
+USE agriconnect;
+SELECT DATABASE();
